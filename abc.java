@@ -2,10 +2,10 @@
 public class abc{
  public static void main(String[] args) {
 
-    int n = 5;
+    int n = 10;
     // for loop  
     for (int i = 1; i <= n; ++i) {
-      System.out.println("Java is fun");
+      System.out.println("My name is Chandni");
     }
   }
 }
